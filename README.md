@@ -1,10 +1,10 @@
-Projeto: satisfação dos consumidores de um e-commerce
+**Projeto: satisfação dos consumidores de um e-commerce**
 
-Objetivo: prever a satisfação do cliente a partir de um conjunto de dados de ecommerce do Brasil.
+**Objetivo**: prever a satisfação do cliente a partir de um conjunto de dados de ecommerce do Brasil.
 
-Fonte: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+**Fonte**: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-Dicionário dos dados:
+**Dicionário dos dados**:
 
 order_status: status do pedido (entregue ou cancelado) (delivered or canceled).
 
