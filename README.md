@@ -2,7 +2,8 @@
 
 **Objetivo**: prever a satisfação do cliente a partir de um conjunto de dados de ecommerce do Brasil.
 
-**Fonte**: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+**Fonte dos dados**: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+**Projeto desenvolvido em conjunto com laboratório de python oferecido pela comunidade Mulheres em Dados https://www.linkedin.com/company/mulheresemdados/**
 
 **Dicionário dos dados**:
 
