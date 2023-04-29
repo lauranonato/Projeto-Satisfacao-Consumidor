@@ -28,4 +28,3 @@
 **Fonte dos dados:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 **Analise desenvolvida com o desafio oferecido pela comunidade Mulheres em Dados:** (https://www.linkedin.com/posts/mulheresemdados_desafio-python-iniciante-activity-6942208393260449792-6M3C?utm_source=linkedin_share&utm_medium=member_desktop_web)
-*.ipynb linguagem=python
