@@ -30,7 +30,8 @@
 |product_description_length|número de caracteres extraídos da descrição do produto|
 |product_photos_qty|número de fotos de produtos que foram publicadas|
 |review_score|classificação dada por um cliente em uma pesquisa de satisfação que varia de 1 a 5|
-
+|customer_city|cidade do cliente|
+|customer_state|estado (uf) do cliente|
 
 2º Análise exploratória: 
 
