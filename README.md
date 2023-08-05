@@ -53,7 +53,7 @@ aqui também foi interessante verificar que pedidos com alta avaliação foram e
 
 **tempo de entrega**
 
-O frete custa em média 20,00 e contém muitos outliers chegando a pedidos com frete de 400,00. A grande maioria dos pedidos chegam em até 30 dias de entrega e o percentual de pedidos diminui conforme aumenta o tempo de entrega, revelam algum problema com operação mesmo, talvez mudança de centro de distribuição, fornecedores, etc.
+O frete custa em média 20,00 e contém muitos outliers chegando a pedidos com frete de 400,00 e grande maioria dos pedidos chegam em até 30 dias de entrega.
 
 
 3º Feature Engineering: criação de features úteis para o modelo como entrega do produto
