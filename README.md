@@ -42,7 +42,9 @@ a plataforma tem variadedade do mix de produtos no portifólio, contempla até 7
 O faturamento dos pedidos representam a mediana de 171,00 com um alto desvio padrão, isso possívelmente devido a diversidade de categorias, variação de preço, etc.
 
 **correlações**
-foi possível identificar que as variáveis preço e satisfação estão sempre relacionadas, onde os pedidos mais caros tiveram maiores notas de satisfação, as baixas avaliações concentram com pedidos de menor preço, bem como a maior parte das boas avaliações (4 e 5) ocorre quando o valor do pagamento e preço tem o mesmo valor.
+
+foi possível identificar que as variáveis preço e satisfação estão sempre relacionadas, onde os pedidos mais caros tiveram maiores notas de satisfação, as baixas avaliações concentram com pedidos de menor preço, 
+bem como a maior parte das boas avaliações (4 e 5) ocorre quando o valor do pagamento e preço tem o mesmo valor.
 ![image](https://github.com/lauranonato/Projeto-Satisfacao-Consumidor/assets/56266061/4386c28b-93f1-467e-93d2-8016541990e6)
 
 
