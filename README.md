@@ -49,7 +49,7 @@
   -tipo de pagamento: transforma em uma variavel numérica
   
   
-4º Aplicação do modelo: utilizando o modelo de árvore de decisão foi possível identificar que tempo de entrega e atraso da entrega são as variáveis que mais estão influenciando na decisão do cliente avaliar a sua satisfação com o serviço.
+4º Aplicação do modelo: utilizando o modelo de árvore de decisão foi possível identificar que tempo de entrega e atraso da entrega são as variáveis que mais estão influenciando na decisão do cliente avaliar a satisfação com o serviço.
 O primeiro teste com o algoritmo obteve uma acurácia de 86% identificando 19.690 registros com satisfação positiva. 
 O resultado do modelo foi bastante satisfatório em identificar a avaliação do cliente, dado que no dataset real a maioria das avaliações se concentram entre 4 e 5.
 ![image](https://github.com/lauranonato/Projeto-Satisfacao-Consumidor/assets/56266061/104d1628-79f8-4b7c-a059-ac1c2fce2dff)
