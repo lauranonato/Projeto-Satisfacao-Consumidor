@@ -1,6 +1,6 @@
 **Projeto: satisfação dos consumidores de um e-commerce** 🔎🎲
 
-**Objetivo**: a partir de um conjunto de dados de ecommerce do Brasil, realizar análise exploratória, preparar features e data set final para a criação de um modelo que prevê a satisfação do cliente.
+**Objetivo**: a partir de um conjunto de dados de ecommerce do Brasil, realizar análise exploratória, preparar features, indicadores e data set final para a criação de um modelo que prevê a satisfação dos clientes.
 
 **Toolkit do projeto**: python e jupyternotebook
 
