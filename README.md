@@ -37,10 +37,14 @@
 
 
 3º Feature Engineering: criação de features úteis para o modelo como entrega do produto
+ 
   -arrival_time: indica se o produto foi entregue com ou sem atraso
+ 
   -review_score: sinaliza se a avaliação foi boa ou ruim 
+ 
   transformações de variaveis dummies
   -status pedido: transforma em uma variavel numérica
+  
   -tipo de pagamento: transforma em uma variavel numérica
   
   
