@@ -38,7 +38,9 @@
 **forma de pagamento e valor dos pedidos**
 
 os pedidos pagos majoritariamente por crédito, em média custam 175,00, por débito e os pagamentos por voucher tem a menor representatividade, representando em média 75,00.
+
 a plataforma tem variadedade do mix de produtos no portifólio, contempla até 70 categorias e identifiquei que as mais relevantes em volume de vendas são cama mesa e banho, beleza e saúde, esporte e lazer e moveis decorativos respectivamente, indicando que o segmento doméstico é o carro chefe do marketplace.
+
 O faturamento dos pedidos representam a mediana de 171,00 com um alto desvio padrão, isso possívelmente devido a diversidade de categorias, variação de preço, etc.
 
 **correlações**
